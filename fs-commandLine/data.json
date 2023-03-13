@@ -1,0 +1,22 @@
+[
+  {
+    "item": "Comprar lechuga",
+    "completed": true,
+    "date": "02/24/2023"
+  },
+  {
+    "item": "Comprar lechuga",
+    "completed": true,
+    "date": "02/24/2023"
+  },
+  {
+    "item": "Comprar carne",
+    "completed": true,
+    "date": "02/24/2023"
+  },
+  {
+    "item": "Comprar salsas",
+    "completed": true,
+    "date": "02/24/2023"
+  }
+]

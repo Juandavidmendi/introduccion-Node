@@ -1,0 +1,37 @@
+[
+  {
+    "item": "Comprar salsas",
+    "completed": true,
+    "date": "02/24/2023"
+  },
+  {
+    "item": "comprar lechuga",
+    "completed": false,
+    "date": ""
+  },
+  {
+    "item": "comprar lechuga",
+    "completed": false,
+    "date": ""
+  },
+  {
+    "item": "comprar arroz",
+    "completed": false,
+    "date": ""
+  },
+  {
+    "item": "comprar arroz",
+    "completed": false,
+    "date": ""
+  },
+  {
+    "item": "Comprar fruta",
+    "completed": true,
+    "date": "01012023"
+  },
+  {
+    "item": "zapatos",
+    "completed": false,
+    "date": "01/01/2023"
+  }
+]

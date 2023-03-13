@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "command-line-args": "^5.2.1",
+    "inquirer": "^8.0.0"
+  },
+  "devDependencies": {
+    "eslint-plugin-react": "^7.32.2"
+  },
+  "name": "introduccion",
+  "version": "1.0.0",
+  "description": "este repositorio va d ela mano con el libro introduccion a nodejs",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "npm test",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\"&& exit 1"
+  },
+  "author": "Juan D Mendivelso",
+  "license": "ISC"
+}
